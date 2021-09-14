@@ -1,5 +1,5 @@
 # SnakeArcade
-Simple Snake arcade 2D game with levels.
+Simple Snake arcade 2D game with levels created with Phaser3 game library.
 
 The above code was created using typescript and can be run by using the vscode "Go Live" or WAMP on local.
 for above project typescript command has been used (tsc) to create a single js compiled file. after this file is created we can bundle it and we can add to cordova for creating apk or add it to website bundle and link it to a div where the game can be loaded easily.
