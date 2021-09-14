@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "CarterOne";
+    font-weight: normal;
+    font-style: normal;
+    src: url("assets/fonts/CarterOne.ttf");
+}
+
+#snake
+ {
+    margin: 10px;
+    font-family: "CarterOne";
+}
